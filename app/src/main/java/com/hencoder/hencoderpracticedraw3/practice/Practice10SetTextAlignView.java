@@ -25,7 +25,7 @@ public class Practice10SetTextAlignView extends View {
 
     {
         paint.setTextSize(60);
-
+        paint.setTextAlign(Paint.Align.CENTER);
         // 使用 Paint.setTextAlign() 来调整文字对齐方式
     }
 
